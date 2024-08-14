@@ -1,2 +1,3 @@
 This flutter e-commerce template is free to use as you like, modify, or update...Do anything you wish to do in the template...It's free of cost...
-If you want to add more features then let us know, and we can work together to create a bigger and better template...charges apply
+E-commerce Complete flutter app, E-commerce Template Free, E-commerce app
+Shopping app template flutter
